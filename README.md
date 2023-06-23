@@ -6,11 +6,11 @@
   width="400"
    align="right"
 />
-
 <p align="left">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=vinay-patel22&label=Profile%20Views&color=0&icon=5&pretty=true" />
-</a>
+  <img
+    src="https://komarev.com/ghpvc/?username=vinay-patel22&label=Profile%20views&color=0e75b6&style=flat"
+    alt="vinay-patel22"
+  />
 </p>
 
 - 🌱 I’m currently learning **WEB DEV and DSA** 
