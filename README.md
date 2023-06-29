@@ -95,7 +95,7 @@
   </a>
      <a href="https://sass-lang.com/documentation/">
     <img
-      src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"
+      src="https://img.icons8.com/?size=512&id=QBqFNfPPB2Kx&format=png"
       alt="sass"
       width="40"
       height="40"
