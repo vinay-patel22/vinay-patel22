@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Patel</h1>
-<h3 align="center">I'm Always Eager to Learn Something New</h3>
+<h3 align="center">Learn Something New</h3>
 <img
   src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"
   alt="Coding"
@@ -12,7 +12,7 @@
   
 </p>
 
-- 🌱 I’m currently learning **WEB DEV and DSA** 
+- 🌱 **DEVELOPMENT & DSA** 
 - 📫 How to reach me
 **patelvinay230@gmail.com**
 
